@@ -1,0 +1,12 @@
+.container{
+    height: 50vh;
+width: 60vw;
+}
+.boxes{
+    display: flex;
+    flex-wrap: wrap;
+}
+.box{
+    width:20vw;
+height: 10vh;
+}
